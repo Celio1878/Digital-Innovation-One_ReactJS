@@ -1,0 +1,4 @@
+/** Installing EsLint
+   npm i -D eslint babel-eslint eslint-plugin-react eslint-watch
+   Configure for projects patterns
+*/
